@@ -29,7 +29,7 @@ ABHISHEK-SER Multi Device Whatsapp Bot.
 
 
 
-## ABHISHEK-SER Deploy Method
+## ABHI YADAV Deploy Method
 
 -------
 
